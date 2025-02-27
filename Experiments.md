@@ -4,7 +4,7 @@ permalink: /resume/
 title: My CV
 ---
 
-<h1>{{ page.title }}</h1>
+<h1>Muqing Yang</h1>
 
 <h2>Education</h2>
 <ul>

@@ -1,5 +1,7 @@
 ---
 layout: archive-taxonomies
+permalink: /Experiments/
+title: Experiments
 type: Experiments
 ---
 ## Work Experience

@@ -1,9 +1,9 @@
-- type: dates
+- type: Experiments
   title: Experiments
-  url: /dates/
+  url: /Experiments/
 #- type: categories
 #  title: Categories
 #  url: /categories/
 - type: Education
   title: Education
-  url: /education/
+  url: /Education/

@@ -40,6 +40,10 @@ sass:
   sass_dir: _sass
   style: :compressed
 
+navigation:
+  - title: Introduction
+    url: /resume/
+
 # Options
 
 # Replace this value and uncomment to enable Google Analytics tracking

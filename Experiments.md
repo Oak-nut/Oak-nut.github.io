@@ -1,3 +1,7 @@
+---
+layout: archive-taxonomies
+type: Experiments
+---
 ## Work Experience
 
 ### 07/2019 - 08/2019 | Pukou Branch of China Mobile Communications Group Co., Ltd

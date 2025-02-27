@@ -1,7 +1,7 @@
 # Setup
 title: Oak nut
 description: I do science, I do code, I do a little bit of everything—because why not?
-url: https://vszhub.github.io
+url: https://Oak-nut.github.io
 avatar: /avatar.jpg
 paginate: 5
 permalink: 
@@ -11,7 +11,7 @@ cover_image: /bg.jpeg
 plugins:
   - jekyll-remote-theme
 
-remote_theme: vszhub/not-pure-poole
+remote_theme: Oak-nut/not-pure-poole
 
 # Optimize Jekyll
 exclude:

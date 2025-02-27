@@ -1,7 +1,7 @@
 ---
-title: "My Work Expriments"
+title: "Work Experiments"
 date: 2024-02-27
-categories: [Experiments, Work]
+categories: [Experiments] 
 tags: [WRF, Data Analysis]
 layout: post
 ---

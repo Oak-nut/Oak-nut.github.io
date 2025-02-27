@@ -1,5 +1,5 @@
 ---
-layout: archive-taxonomies 
+layout: post
 permalink: /Experiments/
 title: Experiments
 type: category

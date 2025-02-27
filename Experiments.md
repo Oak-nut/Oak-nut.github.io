@@ -1,6 +1,6 @@
 ---
 layout: archive-taxonomies
-permalink: /experiments/
+permalink: /Experiments/
 title: Experiments
 type: Experiments
 ---

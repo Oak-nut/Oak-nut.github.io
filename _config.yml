@@ -26,14 +26,13 @@ exclude:
   - not-pure-poole.gemspec
 
 # Optimize Jekyl SEO Tag
-twitter:
-  username: Oak-nut
-  card: summary
 logo: logo.png
 social:
   name: Muqing Yang
   links:
     - https://github.com/Oak-nut
+    - https://www.linkedin.com/in/muqingyang
+    - mailto:ymqdmail@gmail.com
 google_site_verification: 
 lang: en
 

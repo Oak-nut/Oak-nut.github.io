@@ -3,7 +3,7 @@ layout: archive-taxonomies
 permalink: /Experiments/
 title: Experiments
 type: Experiments
----
+
 ## Work Experience
 
 ### 07/2019 - 08/2019 | Pukou Branch of China Mobile Communications Group Co., Ltd
@@ -34,3 +34,4 @@ type: Experiments
 |---------------|-------------------------------------------------------------------------------------------|
 | **Job Duties**| - Used ERA5 data to drive the WRF model and obtained model forecasts. Assimilated observations and radar data to produce 2km scale reanalysis data. |
 |               | - Testing the best parameters for typical weather in Hong Kong, such as high temperatures, heavy convective precipitation, and typhoons. |
+---

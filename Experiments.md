@@ -3,11 +3,8 @@ layout: archive-taxonomies
 permalink: /Experiments/
 title: Experiments
 type: Experiments
----
 
-## Work Experience
 
-### 07/2019 - 08/2019 | Pukou Branch of China Mobile Communications Group Co., Ltd  
 **Position:** Operations  
 
 <table>
@@ -23,3 +20,4 @@ type: Experiments
     </td>
   </tr>
 </table>
+---
